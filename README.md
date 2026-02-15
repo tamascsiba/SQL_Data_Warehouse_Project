@@ -26,6 +26,13 @@ To ensure consistency and readability across the project, all database objects f
 - 📄 **Naming Conventions:**  
   👉 [View naming_conventions](docs/naming_conventions.md)
 
+### 📂 Project Scripts Location
+
+All SQL and ETL scripts used in this project are stored in a dedicated folder within this repository:
+
+- 📁 **Scripts Folder:**  
+  👉 [Browse scripts](scripts/)
+
 ---
 
 ## 🏗️ Data Architecture (Medallion Architecture)
