@@ -102,28 +102,6 @@ These outputs support strategic and operational business decisions.
 
 ---
 
-## 🎓 Who Is This Project For?
-
-This repository is useful for anyone looking to showcase or learn:
-
-- SQL Development  
-- Data Engineering  
-- Data Architecture  
-- ETL Pipeline Design  
-- Data Modeling  
-- Data Analytics  
-
----
-
-## 📌 Possible Next Steps
-
-- Add Power BI / Tableau dashboards  
-- Automate ETL with Airflow / SSIS  
-- Extend to incremental loads & historization  
-- Add cloud deployment (Azure / AWS)
-
----
-
 ## 🧑‍💻 Author - Tamás Csiba
 
 Created as a **portfolio project** to demonstrate practical skills in data engineering and analytics.
