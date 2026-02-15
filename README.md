@@ -38,6 +38,8 @@ The project follows the **Medallion Architecture** pattern with three layers:
 - Fact and dimension tables in **star schema**  
 - Optimized for reporting and analytical queries
 
+![Data Warehouse Architecture](docs/images/Architecture.jpg)
+
 ---
 
 ## 🔄 ETL & Data Modeling
