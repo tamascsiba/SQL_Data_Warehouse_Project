@@ -70,7 +70,7 @@ These insights enable **data-driven decision-making** for business stakeholders.
 
 ## 🧰 Tools & Technologies
 
-- **Datasets:** CSV source files  [Dataset](datasets/)  
+- **[Datasets](datasets/):** CSV source files 
 - **Database:** SQL Server Express  
 - **Management:** SQL Server Management Studio (SSMS)  
 - **Modeling & Diagrams:** Draw.io  
