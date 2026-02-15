@@ -1,6 +1,9 @@
-# 📊 Data Warehouse & Analytics Project
+# 📊 Data Warehouse & Analytics Project  
 
-This repository demonstrates a comprehensive **Data Warehousing and Analytics solution**, from raw data ingestion to business-ready analytics.  
+This repository is based on and inspired by the original project:  
+👉 https://github.com/DataWithBaraa/sql-data-warehouse-project
+
+It demonstrates a comprehensive **Data Warehousing and Analytics solution**, from raw data ingestion to business-ready analytics.  
 It is designed as a **portfolio project** showcasing best practices in **data engineering, data modeling, ETL pipelines, and SQL-based analytics**.
 
 ---
