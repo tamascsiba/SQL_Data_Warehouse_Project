@@ -4,7 +4,8 @@ This repository is based on and inspired by the original project:
 👉 https://github.com/DataWithBaraa/sql-data-warehouse-project
 
 It demonstrates a comprehensive **Data Warehousing and Analytics solution**, from raw data ingestion to business-ready analytics.  
-It is designed as a **portfolio project** showcasing best practices in **data engineering, data modeling, ETL pipelines, and SQL-based analytics**.
+It is designed as a **portfolio project** showcasing best practices in **data engineering, data modeling, ETL pipelines, and SQL-based analytics**.  
+Created as a **portfolio project** to demonstrate practical skills in data engineering and analytics.
 
 ---
 
@@ -18,6 +19,12 @@ The goal of this project is to design and implement a **modern data warehouse** 
 - Data Modeling (Star Schema)
 - SQL Analytics & Reporting
 - Data Quality & Integration
+  
+### 📐 Standards & Conventions
+To ensure consistency and readability across the project, all database objects follow defined naming standards:
+
+- 📄 **Naming Conventions:**  
+  👉 [View naming_conventions](docs/naming_conventions.md)
 
 ---
 
@@ -70,7 +77,7 @@ These insights enable **data-driven decision-making** for business stakeholders.
 
 ## 🧰 Tools & Technologies
 
-- **Datasets:** CSV source files  
+- **[Datasets](datasets/):** CSV source files 
 - **Database:** SQL Server Express  
 - **Management:** SQL Server Management Studio (SSMS)  
 - **Modeling & Diagrams:** Draw.io  
@@ -107,9 +114,4 @@ These outputs support strategic and operational business decisions.
 
 ---
 
-## 🧑‍💻 Author - Tamás Csiba
-
-Created as a **portfolio project** to demonstrate practical skills in data engineering and analytics.
-
----
 
