@@ -19,6 +19,12 @@ The goal of this project is to design and implement a **modern data warehouse** 
 - Data Modeling (Star Schema)
 - SQL Analytics & Reporting
 - Data Quality & Integration
+  
+### 📐 Standards & Conventions
+To ensure consistency and readability across the project, all database objects follow defined naming standards:
+
+- 📄 **Naming Conventions:**  
+  👉 [View naming_conventions](docs/naming_conventions.md)
 
 ---
 
