@@ -35,20 +35,6 @@ Additional Notes:
 ===============================================================================
 */
 
-IF OBJECT_ID('silver.crm_prd_info', 'U') IS NOT NULL
-	DROP TABLE silver.crm_prd_info;
-CREATE TABLE silver.crm_prd_info (
-	prd_id			INT,
-	cat_id			NVARCHAR(255),
-	prd_key			NVARCHAR(255),
-	prd_name		NVARCHAR(255),
-	prd_cost		INT,
-	prd_line		NVARCHAR(255),
-	prd_start_dt	DATE,
-	prd_end_dt		DATE,
-	dwh_create_date DATETIME2 DEFAULT GETDATE()
-);
-
 INSERT INTO silver.crm_prd_info (
 	prd_id,
 	cat_id,
