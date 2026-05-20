@@ -56,6 +56,38 @@ The project follows the **Medallion Architecture** pattern with three layers:
 
 ---
 
+# 🔄 Integration Diagram
+
+![Integration Diagram](docs/images/integration_diagram.jpg)
+
+The project integrates data from two main source systems:
+
+## CRM System
+Contains:
+- Customer information
+- Product information
+- Sales transactions and order details
+
+Tables:
+- `crm_cust_info`
+- `crm_prd_info`
+- `crm_sales_details`
+
+## ERP System
+Contains:
+- Additional customer information
+- Customer location data
+- Product category mappings
+
+Tables:
+- `erp_cust_az12`
+- `erp_loc_a101`
+- `erp_px_cat_g1v2`
+
+The Silver layer integrates and standardizes these datasets into a unified analytical structure.
+
+---
+
 ## 🔄 ETL & Data Modeling
 
 ### ETL Pipelines
